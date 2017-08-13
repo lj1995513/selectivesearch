@@ -3,7 +3,7 @@ import skimage.data
 import matplotlib.pyplot as plt
 import matplotlib.patches as mpatches
 import selectivesearch
-from __future__ import print
+from __future__ import print_function
 
 def main():
 
