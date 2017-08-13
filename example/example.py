@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
+from __future__ import print_function
 import skimage.data
 import matplotlib.pyplot as plt
 import matplotlib.patches as mpatches
 import selectivesearch
-from __future__ import print_function
 
 def main():
 
